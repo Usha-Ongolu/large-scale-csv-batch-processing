@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,country,product,category,order_date,quantity,unit_price
+10001,101,ABC Industries,India,Data Platform,Software,2026-08-01,2,1200
+10002,102,Tech Solutions,USA,Analytics Platform,Software,2026-08-02,1,2500
+10003,103,Global Systems,UK,Data Integration,Services,2026-08-03,3,1800
+10004,104,Cloud Corp,India,Data Platform,Software,2026-08-04,1,1200
+10005,105,Enterprise Ltd,Australia,Cloud Migration,Services,2026-08-05,2,3000
+10006,101,ABC Industries,India,Analytics Platform,Software,2026-08-06,2,2500
+10007,106,Digital Works,Germany,Data Integration,Services,2026-08-07,1,1800
+10008,107,Smart Systems,USA,Cloud Migration,Services,2026-08-08,2,3000
+10009,108,Data Corp,India,Analytics Platform,Software,2026-08-09,1,2500
+10010,109,Tech World,Canada,Data Platform,Software,2026-08-10,3,1200
